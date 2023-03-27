@@ -28,3 +28,6 @@ pytest-selenium
 selenium
 
 urllib3
+
+
+Составленные тест-кейсы и баг репорты находятся тут: https://docs.google.com/spreadsheets/d/1KmWPOF_PW9UlKFBSu-Lf6NkmrF3x84Lm/edit?usp=sharing&ouid=110623258539296754002&rtpof=true&sd=true
